@@ -1,0 +1,149 @@
+monster_id,monster_name,attributes,rarity,breedable,price,lvl
+1015,Sealion,"[f, w]",2,Yes,360,3
+1017,Thundenix,"[t, f]",3,Yes,280,3
+1018,Scorchpeg,"[f, l]",4,Yes,1700,3
+1019,Firetaur,"[d, f]",3,Yes,560,3
+1020,Djinn,"[m, f]",3,Yes,120,3
+1026,Obsidia,"[e, d]",2,Yes,420,3
+1028,Vapwhirl,"[w, f]",3,Yes,480,3
+1031,Shock Turtle,"[t, w]",2,Yes,360,7
+1032,Blesstle,"[w, l]",2,Yes,750,12
+1037,Bumblesnout,"[w, n]",3,Yes,480,3
+1038,Rhynex,"[n, t]",4,Yes,1700,3
+1039,Vixsun,"[n, l]",2,Yes,90,3
+1042,Gigram,"[f, t]",2,Yes,210,3
+1043,Bonbon,"[t, e]",3,Yes,280,3
+1044,Koopigg,"[w, t]",3,Yes,480,7
+1045,Rabidex,"[t, n]",4,Yes,470,3
+1046,Pelitwirl,"[t, l]",2,Yes,750,7
+1049,Skipples,"[l, f]",4,Yes,1700,3
+1051,Raane,"[l, w]",3,Yes,1000,12
+1052,Rudicius,"[l, n]",3,Yes,120,3
+1053,Pulseprism,"[l, t]",3,Yes,1000,7
+1054,Fayemelina,"[l, d]",4,Yes,1700,14
+1056,Flickie,"[f, d]",2,Yes,420,3
+1057,Beefcake,"[d, e]",3,Yes,560,3
+1058,Razfeesh,"[d, w]",4,Yes,950,12
+1061,Succuba,"[d, l]",2,Yes,750,14
+1067,Sparkwedge,"[m, t]",3,Yes,800,7
+2001,Arch Knight,"[s, l]",5,Yes,2300,7
+2002,Vadamagma,"[s, f]",5,Yes,2300,7
+2003,Nemestrinus,"[s, n]",5,Yes,2300,7
+2004,Rockantium,"[s, e]",5,Yes,2300,7
+2005,Thorder,"[s, t]",5,Yes,2300,7
+2006,Lord of the Atlantis,"[s, w]",5,Yes,2300,7
+2007,Nebotus,"[s, d]",5,Yes,150,7
+2008,Goldfield,"[s, m]",5,Yes,2300,7
+2009,White Walker,"[s, w]",5,No,150,7
+2011,Worker Hulk,"[s, m]",5,Yes,225,7
+2013,Darkzgul,"[s, d]",5,Yes,2300,7
+2014,Darknubis,"[m, d]",4,Yes,100,14
+2017,Erpham,"[n, m]",4,Yes,1700,3
+2018,Tartarus,"[e, m]",4,Yes,100,3
+2019,Drop Elemental,"[w, m]",4,Yes,125,12
+2021,Dragonian Beast,"[e, n]",4,Yes,860,3
+2022,Lostyghost,"[d, s]",5,No,150,7
+2023,Tao Tao,"[d, n]",4,No,950,3
+2024,Panda Claus,"[m, s]",5,No,225,7
+2027,Firus,"[n, s]",5,No,225,7
+2029,Cupid,"[m, s]",5,No,2300,7
+2031,Teddy Fear,"[e, d]",4,No,1700,3
+2032,Firelequin,"[s, f]",5,No,2300,7
+2034,Griffex,"[t, n]",4,Yes,100,7
+2038,Cthulhu,"[d, w]",4,No,125,12
+2042,Rockanne,"[e, w]",4,No,100,3
+2043,Rockarito,"[e, m]",4,No,100,3
+2044,Rock Li-Sun,"[e, f]",4,No,100,3
+2045,Rockadona,"[e, m]",4,No,90,3
+2046,Rockham,"[e, m]",4,No,90,3
+2047,Rocksteiger,"[e, m]",4,No,90,3
+2049,Rockidson,"[e, t]",4,No,90,3
+2050,Rockaggio,"[e, w]",4,No,90,3
+2051,Rockamura,"[e, w]",4,No,90,3
+2064,Uriel,"[s, l]",5,No,2300,60
+2069,Gravoid,"[mt,e]",3,Yes,1100,3
+2071,Esmelter,"[mt,f]",2,Yes,800,3
+2072,Metaselach,"[mt,w]",3,Yes,1100,12
+2073,Garuda M3,"[mt,t]",3,Yes,1100,7
+2076,Jonskeer,"[mt,n]",2,Yes,800,3
+2077,Omethyst,"[mt,d]",2,Yes,800,14
+2078,Manolyth,"[mt,m]",2,Yes,800,20
+2079,Heimdal,"[mt,l]",2,Yes,800,25
+2080,Rockneto,"[mt,e]",2,Yes,800,3
+2081,Fornax,"[mt,f]",3,Yes,1100,3
+2082,Metanephrops,"[mt,w]",2,Yes,800,12
+2083,Lesaki,"[mt,t]",2,Yes,800,7
+2084,Crux,"[mt,n]",3,Yes,1100,3
+2085,Vortux,"[mt,d]",3,Yes,1100,14
+2086,Dommeath,"[mt,m]",3,Yes,1100,20
+2087,Aurinia,"[mt,l]",3,Yes,1100,25
+2089,C.Y.M.O,"[s, t]",5,No,150,7
+2090,Son-Cookie,"[s, m]",5,No,225,7
+2092,Hellborne,"[f, d]",4,No,125,3
+2093,Dan Felino,"[l,t]",3,No,100,7
+2096,Metalh�ad,"[s,mt]",5,No,225,7
+2098,Laomu,"[s, n]",5,Yes,2300,3
+2100,Hyperion,"[mt, t]",4,No,1700,7
+2102,Skuller,"[d, m]",4,No,1700,14
+2103,Monster Clutch,"[s,m]",5,No,2300,7
+2104,Drazza,"[s,mt]",5,No,2300,7
+2106,Haku,"[mt, d]",4,No,1700,14
+2107,Slayentaur,"[l, e]",3,No,800,3
+2108,Varuna,"[s, w]",5,No,2300,7
+2111,The Firestorm,"[s, f]",5,No,2300,7
+2112,Ultrabot,"[s,mt]",5,No,2300,7
+2113,Aiden,"[w, f]",4,No,1700,3
+2114,Chocolove,"[s,m]",5,No,2300,7
+2115,Squamata Jr.,"[mt, e]",4,No,1700,3
+2116,Pixelion,"[s,m]",5,No,2300,7
+2119,Cyan Nathura,"[s, n]",5,No,2300,7
+2120,MMOnster,"[s, d]",5,No,2300,7
+2122,Killeraptor,"[s, e]",5,No,2300,7
+2125,Volray,"[t, w]",4,No,125,7
+2130,Noctum,"[s, d]",5,No,2300,7
+2133,Oghma,"[s, l]",5,No,2300,7
+2134,Barbatos,"[s, d]",5,No,2300,7
+2135,Seraphim,"[l, d]",4,No,1700,14
+2136,Ledovech,"[w, e]",4,No,1700,3
+2141,Horus,"[m, d]",4,No,1700,14
+2145,LaCroc,"[e, n]",3,No,100,3
+2146,Pandafest,"[m, n]",4,No,125,3
+2147,VoltaiK,"[s, t]",5,No,2300,7
+2148,Nereida,"[m, n]",3,No,100,3
+2149,Ipug,"[mt, t]",4,No,125,7
+2154,Ouros,"[s, e]",5,No,2300,7
+2156,Cristobal,"[w, e]",3,No,125,3
+2159,Punchie,"[d, m]",4,No,1700,14
+2165,Layth,"[s, l]",5,No,2300,7
+2166,MonsterFace,"[mt, d]",4,No,1700,14
+2167,Pegasus,"[n, l]",4,No,1700,3
+2171,R.O.F.L.,"[s, t]",5,No,2300,7
+2180,Coldberus,"[d, w]",4,No,1700,12
+2193,Sphyrnus,"[s, w]",5,No,2300,7
+2195,Malair,"[s,m]",5,No,2300,7
+2199,Galante,"[s,m]",5,No,250,7
+2205,The Prisoner,"[s,w]",5,No,2300,7
+2208,The Judgment,"[s,n]",5,No,2300,7
+2212,Sham-Rokku,"[n,mt]",4,No,125,3
+2219,Dr Viktor,"[s,t]",5,No,250,7
+2221,Vanoss,"[s,t]",5,No,250,7
+2237,Fenrir,"[s,d]",5,No,275,7
+2244,Violet,"[s,m]",5,No,250,7
+2255,Singularis,"[s,m]",5,No,299,7
+2269,Ape-X,"[s,n]",5,No,299,7
+2153,Lord Mammoth,"[s,f]",5,No,10000,7
+2157,Count Vlad,"[s,d]",5,No,10000,7
+2204,Anton Acorne,"[s,w]",5,No,10000,7
+2201,Scarr the Outcast,"[s,m]",5,No,10000,7
+2243,Zyla the Faithful,"[s,t]",5,No,2300,7
+2256,Stinger S1,"[s,mt]",5,No,2300,7
+2222,Dracontium,"[s,f]",5,Yes,2300,7
+2203,Uru,"[s,m]",5,No,2300,7
+2235,Valgar the Pure,"[s,l]",5,No,2300,7
+2206,Hydrok The Forgotten,"[s,w]",5,No,2300,7
+2273,PaLhax,"[s,d]",5,No,2300,7
+1004,Panda,"[n]",1,No,400,2
+1003,Turtle,"[w]",1,No,30000,12
+1001,Fire Lion,"[f]",1,No,100,1
+2284,Lau Lau,"[s,l]",5,No,2300,7
+2074,Wisteria,"[d,m]",4,No,7500,14
